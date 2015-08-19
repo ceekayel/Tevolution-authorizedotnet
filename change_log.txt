@@ -1,0 +1,35 @@
+Templatic Plugin - Tevolution-authorize.net (Version 1.0.4)
+============================================================================================
+
+25th April 2015 (version 1.0.4)
+-----------------------------------------------------------------------------------
+Fix - Submit form validation was not showing.
+
+Fix - Post link not working on map on success page.
+-----------------------------------------------------------------------------------
+
+17th February 2015 (Version 1.0.3)
+------------------------------------------------------------------------------------
+Implrovement in return urls and added filters to url for compatibility with other tevolution plugins
+------------------------------------------------------------------------------------
+includes/authorizedotnet_response.php
+
+20th February 2014 (Version 1.0.2)
+--------------------------------------------------------------------
+Fix: HTML was not getting stripped in order information hidden variable
+--------------------------------------------------------------------
+includes/authorizedotnet_response.php
+-------------------------------------------------------------------
+Fix: google map info window design on authorize.net success page
+----------------------------------------------------------------------------------
+Fix: Set post status as publish after success full payment after 
+submission or upgrade and upgrade the package
+----------------------------------------------------------------------------------
+includes/authorizedotnet_success.php
+----------------------------------------------------------------------------------
+13th October 2013 (Version 1.0.1)
+-------------------------------------------------------------------------------------------------------------
+Improvements - Added setting link and user info messages regarding to activate message and tevolution message.
+-------------------------------------------------------------------------------------------------------------
+Tevolution-authorizedotnet.php
+authorize_functions.php
